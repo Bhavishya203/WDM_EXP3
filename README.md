@@ -40,7 +40,7 @@ for each wear category.</p>
 ### Program:
 
 ```
-Developed by : Bhavishya Reddy Mitta
+Developed by : BHAVISHYA REDDY MITTA
 Reference No : 212221230061
 ```
 
